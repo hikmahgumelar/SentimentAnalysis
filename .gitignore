@@ -1,0 +1,4 @@
+models/
+tensorboard/
+grouped_data.csv
+.ipynb*
